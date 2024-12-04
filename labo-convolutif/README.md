@@ -7,7 +7,7 @@ Classification des émotions : https://colab.research.google.com/drive/1dndIeVcx
 
 Votre choix de CNN approuvé par le professeur  
 
-Votre colab public : 
+Votre colab public : https://colab.research.google.com/drive/1TqZrW9Ffb1e8qd0PtmRQalyc35RIJwYA?usp=sharing
 
 **Dessin de blocs**
 
